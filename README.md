@@ -40,4 +40,4 @@ bash webcam.sh
 [![How to control android camera]()]()
 #### For More Video subcribe <a href="http://youtube.com/GeekSec">GeekSec YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
+<p>WebCam is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
