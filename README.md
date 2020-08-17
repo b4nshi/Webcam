@@ -36,8 +36,3 @@ git clone https://github.com/geek-sec/Webcam
 cd WebCam
 bash webcam.sh
 ```
-### Video Demo
-[![How to control android camera]()]()
-#### For More Video subcribe <a href="https://www.youtube.com/channel/UC8FveB0zS-9oh5YXH1peUyA">GeekSec YouTube Channel</a>
-<p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>WebCam is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
